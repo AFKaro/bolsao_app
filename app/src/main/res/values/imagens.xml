@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imagens">
+        <item>http://3.bp.blogspot.com/-ilUgopYrr0M/UFCaE3WIkQI/AAAAAAAABlI/l0xDHnO0Bzo/s1600/going_to_orthanc_by_1oshuart.jpg</item>
+        <item>https://images.saymedia-content.com/.image/t_share/MTc2NDU5NDk1ODYwNDc5MTg5/middle-earth-profiles-finarfin.jpg</item>
+        <item>https://p4.wallpaperbetter.com/wallpaper/634/905/200/art-blonde-drawing-elf-wallpaper-preview.jpg</item>
+        <item>https://s-media-cache-ak0.pinimg.com/736x/df/9b/a2/df9ba2d23019d8832504368b265878d5.jpg</item>
+    </string-array>
+</resources>
