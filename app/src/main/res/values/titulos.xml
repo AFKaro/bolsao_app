@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="titulos">
-        <item>Titulo 1</item>
-        <item>Titulo 2</item>
-        <item>Titulo 3</item>
-        <item>Titulo 4</item>
+        <item>Bilbo Bolseiro</item>
+        <item>Saruman, o Branco</item>
+        <item>Legolas Verdefolha</item>
+        <item>Gandalf</item>
+        <item>Galadriel</item>
+        <item>Frodo Bolseiro</item>
+        <item>Gollum</item>
+        <item>Aragorn II Elessar</item>
+        <item>Smaug</item>
     </string-array>
 </resources>

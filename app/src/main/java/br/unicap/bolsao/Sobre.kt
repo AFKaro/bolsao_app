@@ -15,11 +15,11 @@ class Sobre : AppCompatActivity() {
 
 
     fun goGithub(view: View?) {
-        goToUrl("https://github.com/AFKaro")
+        goToUrl("https://github.com/AFKaro/bolsao_app")
     }
 
     fun goReferencias(view: View?) {
-        goToUrl("https://github.com/AFKaro")
+        goToUrl("https://terramedia.fandom.com/wiki/P%C3%A1gina_principal")
     }
 
     private fun goToUrl(url: String) {
